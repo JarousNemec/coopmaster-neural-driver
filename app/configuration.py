@@ -10,4 +10,4 @@ def get_log_directory():
     return "./logs/"
 
 def get_log_filename():
-    return log_file_name;
+    return log_file_name
