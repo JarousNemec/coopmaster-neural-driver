@@ -1,1 +1,1 @@
-# neural_driver
+# coopmaster-neural-driver
